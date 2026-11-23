@@ -10,5 +10,5 @@ A compilation of React Native examples for the course DCIT 26 - Application Deve
 * https://snack.expo.dev/@deceriekaye/trinidad_lab6
 * https://snack.expo.dev/@deceriekaye/trinidad_lab7
 
-## Members (BSCS 3-X)
+## Members (BSCS 3-5)
 * Trinidad, Decerie Kaye M.
